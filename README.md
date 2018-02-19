@@ -1,6 +1,9 @@
 # Vue native (clean project)
 Link: [Quick Start](https://nativescript-vue.org/en/docs/getting-started/quick-start/)
 
+### Description:
+This repository created for getting a clean template of Native mobile application with vue.js.
+
 ## For fedora (CentOS)
 
 > **SDK**
