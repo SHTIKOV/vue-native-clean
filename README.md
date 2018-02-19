@@ -1,4 +1,4 @@
-# Vue native clean
+# Vue native (clean project)
 Link: [Quick Start](https://nativescript-vue.org/en/docs/getting-started/quick-start/)
 
 ## For fedora (CentOS)
@@ -13,5 +13,5 @@ Link: [Quick Start](https://nativescript-vue.org/en/docs/getting-started/quick-s
 
 > **Emulator**:
 > 
-> **Link**: /opt/genymobile/genymotion
+> **Link**: /opt/genymobile/genymotion <br>
 > **Command**: ./genymotion
