@@ -6,6 +6,8 @@ This repository created for getting a clean template of Native mobile applicatio
 
 ## For fedora (CentOS)
 
+### Paths for project
+
 > **SDK**
 > 
 > **Link**: /root/Android/Sdk
@@ -19,7 +21,7 @@ This repository created for getting a clean template of Native mobile applicatio
 > **Link**: /opt/genymobile/genymotion <br>
 > **Command**: ./genymotion
 
-## Commands
+### Commands
 
 Command name    | Description
 ----------------|----------------------
